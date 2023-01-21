@@ -1,32 +1,31 @@
 const speakers = {
-    one: {
-        image: 'images/Crosby.0368d0d0.png',
-        title: 'Niall Crosby',
-        decription: 'CEO / Founder',
-        descriptioninfo: 'Providing a library that supports multiple frameworks is a huge challenge, my team an I came up with a way for our grid component to support all frameworks.',
-    },
-    two: {
-        image: 'images/Rakowski.317b77c2.png',
-        title: 'Nivetha Maran',
-        decription: 'Software Engineer Pro',
-        descriptioninfo: 'Learn all about the react hooks, the main advantages of react hooks, different type of hooks, and how it can replace with redux in most of the applications.',
-    },
-    three: {
-        image: 'images/Hawkins.d3e858f0.png',
-        title: 'Tyler Hawkins',
-        decription: 'Senior Software Engineer',
-        descriptioninfo: 'Test-driven development is a programming paradigm in which you write your tests first and your source code. It is perfect when you’re writing code that has clear inputs and outputs, like pure functions',
-    },
+  one: {
+    image: 'images/Crosby.0368d0d0.png',
+    title: 'Niall Crosby',
+    decription: 'CEO / Founder',
+    descriptioninfo: 'Providing a library that supports multiple frameworks is a huge challenge, my team an I came up with a way for our grid component to support all frameworks.',
+  },
+  two: {
+    image: 'images/Rakowski.317b77c2.png',
+    title: 'Nivetha Maran',
+    decription: 'Software Engineer Pro',
+    descriptioninfo: 'Learn all about the react hooks, the main advantages of react hooks, different type of hooks, and how it can replace with redux in most of the applications.',
+  },
+  three: {
+    image: 'images/Hawkins.d3e858f0.png',
+    title: 'Tyler Hawkins',
+    decription: 'Senior Software Engineer',
+    descriptioninfo: 'Test-driven development is a programming paradigm in which you write your tests first and your source code. It is perfect when you’re writing code that has clear inputs and outputs, like pure functions',
+  },
 
-    four: {
-        image: 'images/Kehl.6d83b400.png',
-        title: 'Roy Derks',
-        decription: 'Developer Experience',
-        descriptioninfo: 'Type systems like TypeScript are important when developing JavaScript applications. They make sure that your props are passed in the correct form and shape throughout your application. Together with GraphQLs query ,',
-    },
+  four: {
+    image: 'images/Kehl.6d83b400.png',
+    title: 'Roy Derks',
+    decription: 'Developer Experience',
+    descriptioninfo: 'Type systems like TypeScript are important when developing JavaScript applications. They make sure that your props are passed in the correct form and shape throughout your application. Together with GraphQLs query ,',
+  },
 
-}
-
+};
 
 const body = document.querySelector('#feature-section');
 
@@ -117,24 +116,13 @@ const cardSection = document.querySelector('.section-2');
 let showMore = true;
 
 mobileDisplayBtn.addEventListener('click', () => {
-if (showMore) {
+  if (showMore) {
     cardSection.classList.add('active');
     mobileDisplayBtn.innerHTML = ('LESS <i class="fa-solid fa-caret-up"></i>');
     showMore = false;
-} else {
+  } else {
     cardSection.classList.remove('active');
     mobileDisplayBtn.innerHTML = ' MORE <i class="fa-solid fa-caret-down"></i>';
     showMore = true;
-}
+  }
 });
-
-
-
-
-
-
-
-
-
-
-
