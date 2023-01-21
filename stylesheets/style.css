@@ -102,7 +102,7 @@ span {
   }
 
   header {
-    background-image: url(/images/desktopbg.jpg);
+    background-image: url(/image/desktopbg.jpg);
   }
 
   .harmburger {
@@ -174,7 +174,7 @@ span {
   /**** Headline Section ************/
 
   .headline-container {
-    background-image: url(/images/desktopbg.jpg);
+    background-image: url(/image/desktopbg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 10vh 25px 10vh;
@@ -554,7 +554,7 @@ span {
   }
 
   .headline-container {
-    background-image: url(/images/desktopbg.jpg);
+    background-image: url(/image/desktopbg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 15vh 11vw 10vh;
