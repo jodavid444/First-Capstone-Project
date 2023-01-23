@@ -28,6 +28,8 @@ li {
   list-style-type: none;
 }
 
+/***** Mobile Nav Bar **************/
+
 .nav-bar {
   min-height: 70px;
   display: flex;
