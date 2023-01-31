@@ -53,7 +53,9 @@ Open index.html in Chrome to view the website
 👤 **Joseph David**
 
 - GitHub: [@jodavid444](https://github.com/jodavid444)
+
 - Twitter: [@jodavid444dave](https://twitter.com/jodavid444dave)
+
 - LinkedIn: [LinkedIn](https://linkedin.com/in/joseph-david-01a8a5243)
 
 
