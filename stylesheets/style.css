@@ -556,7 +556,7 @@ span {
   }
 
   .headline-container {
-    background-image: url(/image/desktopbg.jpg);
+    background-image: url("../image/desktopbg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     padding: 15vh 11vw 10vh;
