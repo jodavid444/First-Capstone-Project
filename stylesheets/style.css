@@ -36,6 +36,7 @@ li {
   justify-content: space-between;
   align-items: center;
   padding: 0 20px;
+
   /* background-color: white; */
 }
 
@@ -108,14 +109,11 @@ span {
     height: 72px;
     background-image: url("../image/desktopbg.jpg");
   }
+
   .main-header {
     height: 70px;
     width: 100%;
     position: fixed;
-    background-image: url("../image/desktopbg.jpg");
-  }
-
-  header {
     background-image: url("../image/desktopbg.jpg");
   }
 
