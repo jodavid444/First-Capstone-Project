@@ -18,18 +18,14 @@ JavaScript
 - Technologies used
 
 Github
-
 Git
-
 WebHint
-
 Stylelint
-
 ESlint
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://jodavid444.github.io/First-Capstone-Project/)
+[Live Demo Link](https://jodavid444.github.io/Capstone-Project/)
 
 ## Getting Started
 
