@@ -9,33 +9,32 @@
 
 - Languages 
 
-HTML
-CSS
-JavaScript
+- HTML
+
+- CSS
+
+- JavaScript
 
 - Frameworks(NONE)
 
-- Technologies used
+## Technologies used
 
-Github
+- Github
 
-Git
+- Git
 
-WebHint
+- WebHint
 
-Stylelint
+- Stylelint
 
-ESlint
+- ESlint
 
 ## Live Demo (if available)
 
 [Live Demo Link](https://jodavid444.github.io/First-Capstone-Project/)
 
-## Live Video Presentation
 
-(https://www.loom.com/share/a0f3f3fdc0334fa8a134919c742bdcca)
-
-## Getting Starte
+## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
